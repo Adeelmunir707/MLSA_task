@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Flower Species Classification ",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "The project employed the well-known Iris dataset, containing samples from three different iris flower species, making it a classic benchmark for machine learning classification tasks.I chose Logistic Regression as the classification algorithm due to its simplicity and robust performance, with 98% accuracy.",
+    url: "https://github.com/Adeelmunir707/Coding-Samurai-inturship-tasks/tree/main/flower-species",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Movies Recommender System",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "In this project, I've created two movie recommendation systems: one based on cosine similarity and another using content-based filtering. These recommendation systems help users discover new movies based on their preferences and similarities between movies.",
+    url: "https://github.com/Adeelmunir707/Machine-Learning-Projects/tree/main/movies-recomender",
   },
   {
-    title: "My Resume Site",
+    title: "Sentiment Analysis of Twitter Dataset",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "The heart of the project involved implementing a Logistic Regression model, trained to classify text sentiment into categories such as positive, negative, or neutral. I took it a step further by creating a user-friendly web application. This application allows users to input text, and with the click of a button, it justifies sentiments as positive, negative, or neutral, providing real-time sentiment analysis results.",
+    url: " https://pulsefixer.streamlit.app/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Tacos Shop - Testimonal to Front-End",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "The Web Projects using HTML and CSS repository is a collection of web development projects that are built primarily using HTML and CSS. These projects serve as practical examples and templates to help developers and designers enhance their front-end skills and gain inspiration for creating visually appealing and functional websites.",
+    url: "https://github.com/Adeelmunir707/Web-Projects",
   },
 ];
 

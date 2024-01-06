@@ -14,25 +14,18 @@ import Portfolio from "./Components/Portfolio";
 
 import "./styles.css";
 
-/**
- * This object represents your information. The project is set so that you
- * only need to update these here, and values are passed a properties to the
- * components that need that information.
- *
- * Update the values below with your information.
- *
- * If you don't have one of the social sites listed, leave it as an empty string.
- */
+
+ 
 const siteProps = {
-  name: "Alexandrie Grenier",
-  title: "Web Designer & Content Creator",
-  email: "alex@example.com",
-  gitHub: "microsoft",
-  instagram: "microsoft",
-  linkedIn: "satyanadella",
-  medium: "",
-  twitter: "microsoft",
-  youTube: "Code",
+  name: "Adeel Munir",
+  title: "Machine Learning Enthusiast",
+  email: "adeelmodernite@gmail.com",
+  gitHub: "https://github.com/Adeelmunir707",
+  instagram: "https://instagram.com/itz._.aadie?igshid=NzZlODBkYWE4Ng==",
+  linkedIn: "https://www.linkedin.com/in/adeelmunir/",
+  medium: "/",
+  twitter: "/",
+  youTube: "/",
 };
 
 const primaryColor = "#4E567E";
